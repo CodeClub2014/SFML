@@ -1,0 +1,12 @@
+sfml-system-s.lib
+sfml-audio-s.lib
+sfml-window-s.lib
+sfml-graphics-s.lib
+winmm.lib
+openal32.lib
+sndfile.lib
+opengl32.lib
+gdi32.lib
+freetype.lib
+glew.lib
+jpeg.lib
